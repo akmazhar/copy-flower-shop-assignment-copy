@@ -189,9 +189,11 @@ body {
 .rose{
     display: inline;
     justify-content: center;
-    margin-bottom: 50px;
-    
+    margin-bottom: 150px;
+    margin-top: 50px;
 }
+
+
 .cointainers{
     margin-top: 10px;
     margin-bottom: 200px;
@@ -204,4 +206,46 @@ body {
 .text-primary{
     font-display: center;
     margin-left: 15px;
+}
+.photo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    width: 80%;
+    height: 420px;
+}
+
+.deal{
+    font-size: 40px;
+    font-weight: 800px;
+    margin-top: 300px;
+    justify-content: center;
+    margin-left: 600px;
+}
+    
+.btn{
+    margin-left: 600px;
+
+    padding: 10px;
+    color: #f21090;
+}
+
+.sub{
+    
+    padding: 10px;
+    color: #f21090;
+
+}
+.coupon{
+    justify-content: center;
+    padding: 10px;
+    margin-left: 600px;
+    font-size: 18px;
+}
+
+.end{
+   margin-top: 50px
+    width: 100px;
+    height: 400px;
 }
