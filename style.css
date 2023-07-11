@@ -189,6 +189,19 @@ body {
 .rose{
     display: inline;
     justify-content: center;
+    margin-bottom: 50px;
     
 }
+.cointainers{
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
 
+.end{
+    margin-top: 05;
+    font-display: center;
+}
+.text-primary{
+    font-display: center;
+    margin-left: 15px;
+}
